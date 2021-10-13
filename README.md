@@ -1,6 +1,9 @@
-# Citizen Safety App
+# Citizen Safety App : CitiSafe
 
-Application for Cognithon 2021
+An Application built for Cognithon 2021, part of Cognitia NITM
+
+
+
 
 To build the app on your local machine:
 
