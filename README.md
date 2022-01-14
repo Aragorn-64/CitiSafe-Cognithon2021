@@ -2,6 +2,8 @@
 
 An Application built for Cognithon 2021, part of Cognitia NITM
 
+UX planning on Whimsical:https://whimsical.com/wireframe-of-ui-if-needed-Y5fLt7qHwMebVdDwVFhaRe
+
 
 
 
